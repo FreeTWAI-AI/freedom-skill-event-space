@@ -1,0 +1,35 @@
+{
+  "kind": "event-space",
+  "title": "虛構：週末共讀練習",
+  "expected_attendees": 12,
+  "venue_capacity": 20,
+  "roles": [
+    "主持",
+    "接待",
+    "場地聯絡"
+  ],
+  "agenda": [
+    {
+      "start_minute": 0,
+      "duration_minutes": 10,
+      "title": "報到",
+      "owner_role": "接待"
+    },
+    {
+      "start_minute": 10,
+      "duration_minutes": 40,
+      "title": "共讀與討論",
+      "owner_role": "主持"
+    },
+    {
+      "start_minute": 50,
+      "duration_minutes": 10,
+      "title": "收尾",
+      "owner_role": "場地聯絡"
+    }
+  ],
+  "unresolved": [
+    "向場地方確認進撤場與無障礙動線"
+  ],
+  "data_classification": "synthetic"
+}
